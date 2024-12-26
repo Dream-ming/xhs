@@ -1,3 +1,5 @@
-2024/12/25-10:40:13.588 6584 Reusing MANIFEST D:\Z_Work\NanJingZhiNeng\小红书爬虫\MediaCrawler\browser_data\xhs_user_data_dir\Default\Service Worker\Database/MANIFEST-000001
-2024/12/25-10:40:13.592 6584 Recovering log #3
-2024/12/25-10:40:13.593 6584 Reusing old log D:\Z_Work\NanJingZhiNeng\小红书爬虫\MediaCrawler\browser_data\xhs_user_data_dir\Default\Service Worker\Database/000003.log 
+2024/12/26-14:24:12.801 15c7 Recovering log #6
+2024/12/26-14:24:12.801 15c7 Level-0 table #8: started
+2024/12/26-14:24:12.802 15c7 Level-0 table #8: 267 bytes OK
+2024/12/26-14:24:12.804 15c7 Delete type=3 #5
+2024/12/26-14:24:12.804 15c7 Delete type=0 #6

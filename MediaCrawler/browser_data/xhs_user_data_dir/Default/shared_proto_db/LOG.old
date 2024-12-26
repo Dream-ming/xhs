@@ -1,3 +1,5 @@
-2024/12/25-10:40:13.914 6584 Reusing MANIFEST D:\Z_Work\NanJingZhiNeng\小红书爬虫\MediaCrawler\browser_data\xhs_user_data_dir\Default\shared_proto_db/MANIFEST-000001
-2024/12/25-10:40:13.914 6584 Recovering log #3
-2024/12/25-10:40:13.916 6584 Reusing old log D:\Z_Work\NanJingZhiNeng\小红书爬虫\MediaCrawler\browser_data\xhs_user_data_dir\Default\shared_proto_db/000003.log 
+2024/12/26-14:24:13.511 15c8 Recovering log #7
+2024/12/26-14:24:13.511 15c8 Level-0 table #9: started
+2024/12/26-14:24:13.511 15c8 Level-0 table #9: 2084 bytes OK
+2024/12/26-14:24:13.513 15c8 Delete type=3 #5
+2024/12/26-14:24:13.513 15c8 Delete type=0 #7

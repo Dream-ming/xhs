@@ -1,3 +1,13 @@
-2024/12/25-10:41:52.837 45a4 Reusing MANIFEST D:\Z_Work\NanJingZhiNeng\小红书爬虫\MediaCrawler\browser_data\xhs_user_data_dir\Default\Site Characteristics Database/MANIFEST-000001
-2024/12/25-10:41:52.838 45a4 Recovering log #3
-2024/12/25-10:41:52.838 45a4 Reusing old log D:\Z_Work\NanJingZhiNeng\小红书爬虫\MediaCrawler\browser_data\xhs_user_data_dir\Default\Site Characteristics Database/000003.log 
+2024/12/26-14:28:38.938 17c7 Recovering log #10
+2024/12/26-14:28:38.941 17c7 Level-0 table #12: started
+2024/12/26-14:28:38.946 17c7 Level-0 table #12: 165 bytes OK
+2024/12/26-14:28:38.951 17c7 Delete type=3 #8
+2024/12/26-14:28:38.952 17c7 Delete type=0 #10
+2024/12/26-14:28:38.953 17b9 Compacting 4@0 + 0@1 files
+2024/12/26-14:28:38.956 17b9 Generated table #14@0: 2 keys, 194 bytes
+2024/12/26-14:28:38.956 17b9 Compacted 4@0 + 0@1 files => 194 bytes
+2024/12/26-14:28:38.960 17b9 compacted to: files[ 0 1 0 0 0 0 0 ]
+2024/12/26-14:28:38.962 17b9 Delete type=2 #9
+2024/12/26-14:28:38.962 17b9 Delete type=2 #3
+2024/12/26-14:28:38.962 17b9 Delete type=2 #12
+2024/12/26-14:28:38.962 17b9 Delete type=2 #6
